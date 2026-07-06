@@ -100,7 +100,8 @@ Aspiring AI/ML Engineer | Data Science Enthusiast | Competitive Programmer
 # 📊 GitHub Summary
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsharma45512&theme=github_dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manishsharma45512&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishsharma45512&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
