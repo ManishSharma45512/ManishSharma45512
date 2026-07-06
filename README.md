@@ -100,10 +100,18 @@ Aspiring AI/ML Engineer | Data Science Enthusiast | Competitive Programmer
 # 📊 GitHub Summary
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manishsharma45512&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishsharma45512&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManishSharma45512&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManishSharma45512&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManishSharma45512&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManishSharma45512&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManishSharma45512&theme=github_dark&utcOffset=5.5" />
+</p>
 ---
 
 # 🐍 Contribution Snake
