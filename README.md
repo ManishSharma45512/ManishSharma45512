@@ -116,7 +116,7 @@ Aspiring AI/ML Engineer | Data Science Enthusiast | Competitive Programmer
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Actions workflow first.
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/manishsharma45512/manishsharma45512/output/github-contribution-grid-snake-dark.svg"/>
