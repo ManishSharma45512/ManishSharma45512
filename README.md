@@ -10,8 +10,9 @@ Aspiring AI/ML Engineer | Data Science Enthusiast | Competitive Programmer
 </h3>
 
 <p align="center">
-🎓 B.Sc. Physical Science (Computer Science) @ University of Delhi <br>
 🎓 BS in Data Science and Applications @ IIT Madras <br>
+🎓 B.Sc. Physical Science (Computer Science) @ University of Delhi <br>
+
 🚀 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 </p>
 
