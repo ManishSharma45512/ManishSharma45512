@@ -78,19 +78,6 @@ Aspiring AI/ML Engineer | Data Science Enthusiast | Competitive Programmer
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishsharma45512&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishsharma45512&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishsharma45512&theme=tokyonight"/>
-</p>
-
----
-
 # 📈 GitHub Activity Graph
 
 <p align="center">
