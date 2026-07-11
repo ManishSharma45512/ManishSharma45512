@@ -43,17 +43,6 @@ Aspiring AI/ML Engineer | Data Science Enthusiast | Competitive Programmer
 
 ---
 
-# 🌐 Portfolio
-
-🔗 https://manishsharma45512.github.io/Portfolio/
-
----
-
-# 📫 Contact
-
-📧 **manishsharma.45512@gmail.com**
-
----
 
 # 🤝 Connect With Me
 
