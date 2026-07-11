@@ -73,14 +73,6 @@ Aspiring AI/ML Engineer | Data Science Enthusiast | Competitive Programmer
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishsharma45512&theme=tokyo-night"/>
-</p>
-
----
-
 # 📊 GitHub Summary
 
 <p align="center">
